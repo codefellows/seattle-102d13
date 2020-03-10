@@ -1,6 +1,3 @@
-<!-- Please make EDITS to README -->
-<!-- Please make EDITS to README -->
-
 # Code 102: Intro to Software Development
 
 ## Welcome to Code Fellows!
@@ -11,10 +8,10 @@ In this course you will build a strong software development foundation and learn
 
 ### Instructional Staff
 
-Instructor: EDIT,  email: EDIT, slack: EDIT
+Instructor: Brad Smialek,  email: brad.smialek@codefellows.com, slack: @BradSmialek
 
 
-**[Link to Canvas Assignments](https://canvas.instructure.com/courses/EDIT)**
+**[Link to Canvas Assignments](https://canvas.instructure.com/courses/1844386)**
 
 ### Course Schedule
 
